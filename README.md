@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Oricul (Brad Hughes).
 - 👀 I’m interested in Japan, video games, and computers.
-- 🌱 I’m currently learning C# and Unity.
+- 🌱 I’m currently learning C (Harvard EDx), C#, Unity.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 Reach me via email: i0ri@pm.me
