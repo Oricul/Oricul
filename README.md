@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oricul" alt="oricul" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/oricul" target="blank"><img src="https://img.shields.io/twitter/follow/oricul?logo=twitter&style=for-the-badge" alt="oricul" /></a> </p>
-
-- 🔭 I’m currently working on [**eso-RandomMount**](https://github.com/Oricul/eso-RandomMount) and [**vsc-eso**](https://github.com/Oricul/vsc-eso)
+- 🔭 I’m currently working on [**kbin-scripts**](https://github.com/Oricul/kbin-scripts) and [**eso-RandomMount**](https://github.com/Oricul/eso-RandomMount)
 
 - 🌱 I’m currently learning **LUA**
 
@@ -25,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/oricul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="oricul" height="30" width="40" /></a>
+<a href="https://mastodon.online/@0rigami" target="blank"><img alt="Mastodon" src="https://img.shields.io/mastodon/follow/109271925024637780?domain=https%3A%2F%2Fmastodon.online&label=%400rigami" /></a>
 <a href="https://linkedin.com/in/brad-hughes-548a2791" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brad-hughes-548a2791" height="30" width="40" /></a>
 </p>
 
