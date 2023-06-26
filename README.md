@@ -24,7 +24,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://mastodon.online/@0rigami" target="blank"><img alt="Mastodon" src="https://img.shields.io/mastodon/follow/109271925024637780?domain=https%3A%2F%2Fmastodon.online&label=%400rigami" /></a>
-<a href="https://linkedin.com/in/brad-hughes-548a2791" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brad-hughes-548a2791" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/brad-hughes-548a2791" target="blank"><img alt="Static Badge" src="https://img.shields.io/badge/Brad%20Hughes-0A66C2?logo=linkedin&logoColor=%23FFF&labelColor=0A66C2&link=https%3A%2F%2Flinkedin.com%2Fin%2Fbrad-hughes-548a2791" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
