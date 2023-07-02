@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Oricul/Origami/Ori/Brad Hughes</h1>
+<h1 align="center">Hi 👋, I'm Ori/Orito/Oricul/Origami/Brad Hughes</h1>
 <h3 align="center">A hobbyist developer learning new skills.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oricul&label=Profile%20views&color=0e75b6&style=flat" alt="oricul" /> </p>
@@ -17,14 +17,14 @@
 
 - 📫 How to reach me **i0ri@pm.me**
 
-- 📄 Know about my experiences [**LinkedIn**](https://www.linkedin.com/in/brad-hughes-548a2791/)
+- 📄 Know about my experiences [**LinkedIn**](https://linkedin.com/in/bradh1203)
 
 - ⚡ Fun fact **I love having an impact on projects.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://mastodon.online/@0rigami" target="blank"><img alt="Mastodon" src="https://img.shields.io/mastodon/follow/109271925024637780?domain=https%3A%2F%2Fmastodon.online&label=%400rigami" /></a>
-<a href="https://linkedin.com/in/brad-hughes-548a2791" target="blank"><img alt="Static Badge" src="https://img.shields.io/badge/Brad%20Hughes-0A66C2?logo=linkedin&logoColor=%23FFF&labelColor=0A66C2&link=https%3A%2F%2Flinkedin.com%2Fin%2Fbrad-hughes-548a2791" /></a>
+<a href="https://neovibe.app/@0ri" target="blank"><img alt="Mastodon" src="https://img.shields.io/mastodon/follow/109271925024637780?domain=https%3A%2F%2Fneovibe.app&label=%400ri" /></a>
+<a href="https://linkedin.com/in/bradh1203" target="blank"><img alt="Static Badge" src="https://img.shields.io/badge/Brad%20Hughes-0A66C2?logo=linkedin&logoColor=%23FFF&labelColor=0A66C2&link=https%3A%2F%2Flinkedin.com%2Fin%2Fbradh1203" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -35,4 +35,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oricul&show_icons=true&locale=en" alt="oricul" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oricul&" alt="oricul" /></p>
-
