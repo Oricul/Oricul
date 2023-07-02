@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://neovibe.app/@0ri" target="blank"><img alt="Mastodon" src="https://img.shields.io/mastodon/follow/109271925024637780?domain=https%3A%2F%2Fneovibe.app&label=%400ri" /></a>
+<a href="https://neovibe.app/@0ri" target="blank"><img alt="Mastodon" src="https://img.shields.io/mastodon/follow/110644546096384301?domain=https%3A%2F%2Fneovibe.app"/></a>
 <a href="https://linkedin.com/in/bradh1203" target="blank"><img alt="Static Badge" src="https://img.shields.io/badge/Brad%20Hughes-0A66C2?logo=linkedin&logoColor=%23FFF&labelColor=0A66C2&link=https%3A%2F%2Flinkedin.com%2Fin%2Fbradh1203" /></a>
 </p>
 
