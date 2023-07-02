@@ -27,7 +27,7 @@
 <a href="https://linkedin.com/in/bradh1203" target="blank"><img alt="Static Badge" src="https://img.shields.io/badge/Brad%20Hughes-0A66C2?logo=linkedin&logoColor=%23FFF&labelColor=0A66C2&link=https%3A%2F%2Flinkedin.com%2Fin%2Fbradh1203" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="right">Languages and Tools:</h3>
 <div style="display: flex; justify-content: space-around;">
     <p align="left">
         <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
