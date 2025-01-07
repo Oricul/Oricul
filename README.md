@@ -5,11 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oricul" alt="oricul" /></a> </p>
 
-- 🔭 I’m currently working on [**kbin-scripts**](https://github.com/Oricul/kbin-scripts) and [**eso-RandomMount**](https://github.com/Oricul/eso-RandomMount)
+- 🔭 I’m currently working on [**WoW_OMTT**](https://github.com/Oricul/WoW_OMTT)
 
 - 🌱 I’m currently learning **LUA**
-
-- 👯 I’m looking to collaborate on [**eso-RandomMount**](https://github.com/Oricul/eso-RandomMount)
 
 - 👨‍💻 All of my projects are available at my [**GitHub**](https://github.com/Oricul)
 
@@ -23,7 +21,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://neovibe.app/@0ri" target="blank"><img alt="Mastodon" src="https://img.shields.io/mastodon/follow/110644546096384301?domain=https%3A%2F%2Fneovibe.app"/></a>
 <a href="https://linkedin.com/in/bradh1203" target="blank"><img alt="Static Badge" src="https://img.shields.io/badge/Brad%20Hughes-0A66C2?logo=linkedin&logoColor=%23FFF&labelColor=0A66C2&link=https%3A%2F%2Flinkedin.com%2Fin%2Fbradh1203" /></a>
 </p>
 
